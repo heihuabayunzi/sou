@@ -1,5 +1,5 @@
 # title of website
-title: sou
+title: 八云紫的隙间空间
 
 # description of website
 description: heihuabayunzi's navigation site
@@ -14,7 +14,7 @@ url: https://heihuabayunzi.github.io/sou/
 github: "https://github.com/heihuabayunzi"
 
 # footer message
-footer: © 2021-2021 @heihuabayunzi
+footer: © 2021-2023 @heihuabayunzi
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -26,7 +26,7 @@ google_analytics: "G-EXE1PJ8CR2"
 webstack:
   search:
     enabled: true
-    default: google
+    default: baidu
     # 可选的搜索引擎
     engines:
       - google
@@ -38,6 +38,14 @@ webstack:
 
 content:
   categories:
+    - name: 资源获取
+      sites:
+        - name: 蓝奏云9ri6
+          description: 蓝奏云部分资源分享。
+          url: https://wws.lanzoui.com/b0264wzvg
+        - name: 爱纯净
+          description: 爱纯净资源与系统破解。
+          url: http://www.aichunjing.com/soft/
     - name: 常用推荐
       sites:
         - name: Dribbble
