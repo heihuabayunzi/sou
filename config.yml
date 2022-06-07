@@ -58,14 +58,9 @@ content:
         - name: 阿虚储物间
           description: 阿虚同学的储物间，也是一个资源收集类的导航。
           url: https://axutongxue.com/
-    - name: 常用网站
-      sites:
         - name: Bilibili
           description: Bilibili视频网。
           url: https://www.bilibili.com/
-        - name: 爱纯净
-          description: 爱纯净资源与系统破解。
-          url: http://www.aichunjing.com/soft/
     - name: 游戏相关
       sites:
         - name: 畅玩空间
