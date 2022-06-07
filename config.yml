@@ -61,6 +61,18 @@ content:
         - name: Bilibili
           description: Bilibili视频网。
           url: https://www.bilibili.com/
+        - name: Windows10微软官网
+          description: 下载官网Windows10。
+          url: https://www.microsoft.com/zh-cn/software-download/windows10
+        - name: MSDN
+          description: MSDN纯净资源站点，用于下载系统和软件。
+          url: https://msdn.itellyou.cn/
+        - name: 某人动漫资源盘
+          description: 大量优质动漫CG资源。
+          url: https://p.xiakai.online/
+        - name: 爱资料工具
+          description: 在线工具大全。
+          url: https://www.toolnb.com/          
     - name: 游戏相关
       sites:
         - name: 畅玩空间
@@ -93,6 +105,15 @@ content:
         - name: Steam商城
           description: Steam游戏平台官网。
           url: https://store.steampowered.com/
+        - name: MCBBS
+          description: MC整合包MOD等发布论坛。
+          url: https://www.mcbbs.net/
+        - name: MC百科
+          description: MCmod的wiki。
+          url: https://www.mcmod.cn/
+        - name: Steam游戏史低
+          description: 游戏史低和各区价格查询站。
+          url: https://steamdb.info/instantsearch/
     - name: 服务器相关
       sites:
         - name: 阿里云
