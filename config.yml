@@ -46,6 +46,84 @@ content:
         - name: 爱纯净
           description: 爱纯净资源与系统破解。
           url: http://www.aichunjing.com/soft/
+        - name: 123云盘
+          description: 123云盘官网。
+          url: https://www.123pan.com/
+        - name: 阿里云盘
+          description: 阿里云盘官网。
+          url: https://www.aliyundrive.com/
+        - name: 蓝奏云
+          description: 蓝奏云官网。
+          url: https://www.lanzoui.com/
+    - name: 常用网站
+      sites:
+        - name: Bilibili
+          description: Bilibili视频网。
+          url: https://www.bilibili.com/
+        - name: 爱纯净
+          description: 爱纯净资源与系统破解。
+          url: http://www.aichunjing.com/soft/
+    - name: 游戏相关
+      sites:
+        - name: 畅玩空间
+          description: 畅玩空间在线街机游戏。
+          url: https://play.wo1wan.com/
+        - name: 在线小霸王游戏
+          description: 一个可以在线玩小霸王游戏的网站。
+          url: https://www.yikm.net/
+        - name: 在线DOS游戏
+          description: 一个可以在线玩DOS游戏的网站。
+          url: https://dos.zczc.cz/
+        - name: 3DM游戏
+          description: 3DM官网。
+          url: https://www.3dmgame.com/
+        - name: 游侠游戏
+          description: 游侠官网。
+          url: https://www.ali213.net/
+        - name: 杉果游戏
+          description: 杉果游戏官网。
+          url: https://www.sonkwo.com/
+        - name: 凤凰游戏
+          description: 凤凰游戏官网。
+          url: https://www.fhyx.com/
+        - name: 共享游戏
+          description: 租号玩游戏的好网站。
+          url: https://www.yx7088.com/
+        - name: Epic游戏
+          description: Epic游戏平台官网。
+          url: https://www.epicgames.com/store/zh-CN/
+        - name: Steam商城
+          description: Steam游戏平台官网。
+          url: https://store.steampowered.com/
+    - name: 服务器相关
+      sites:
+        - name: 阿里云
+          description: 阿里云官网。
+          url: https://www.aliyun.com/
+        - name: 华为云
+          description: 华为云官网。
+          url: https://www.huaweicloud.com/
+        - name: Virmach
+          description: Virmach官网。
+          url: https://billing.virmach.com/index.php?rp=/login
+        - name: Virmach中文
+          description: Virmach中文推荐站。
+          url: https://virmach.net/
+        - name: Virmach闪购
+          description: Virmach闪购官网。
+          url: https://www.vir.wang/
+        - name: Virmach限时特价
+          description: Virmach限时特价官网。
+          url: https://virmach.app/
+        - name: 白丝云
+          description: 白丝云官网。
+          url: https://cloudsilk.io/aff.php?aff=296
+        - name: Virmach
+          description: Virmach官网。
+          url: https://billing.virmach.com/index.php?rp=/login
+        - name: duangVPS技巧
+          description: 介绍VPS技巧等。
+          url: https://www.duangvps.com/
     - name: 常用推荐
       sites:
         - name: Dribbble
