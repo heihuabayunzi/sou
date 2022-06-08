@@ -72,7 +72,13 @@ content:
           url: https://p.xiakai.online/
         - name: 爱资料工具
           description: 在线工具大全。
-          url: https://www.toolnb.com/          
+          url: https://www.toolnb.com/     
+        - name: 轻松传
+          description: 亮点是可传屏幕，神奇的网站。
+          url: https://easychuan.cn/ 
+        - name: MUSE
+          description: 临时传文件专用，本站可临时保存一年之久。
+          url: https://musetransfer.com/       
     - name: 游戏相关
       sites:
         - name: 畅玩空间
@@ -137,6 +143,9 @@ content:
         - name: 白丝云
           description: 白丝云官网。
           url: https://cloudsilk.io/aff.php?aff=296
+        - name: UCloud
+          description: 优刻得。
+          url: https://console.ucloud.cn/
         - name: Virmach
           description: Virmach官网。
           url: https://billing.virmach.com/index.php?rp=/login
